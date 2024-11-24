@@ -1,2 +1,2 @@
 # ToddlerAct Dataset
-We will upload the data soon.
+Please contact hwhuang@uw.edu for the dataset.
