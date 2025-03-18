@@ -1,2 +1,3 @@
 # ToddlerAct Dataset
-Please contact hwhuang@uw.edu for the dataset.
+We are working on collecting a larger toddler action recognition dataset with more diverse actions.
+Please stay tuned!
